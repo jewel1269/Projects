@@ -1,0 +1,8 @@
+li{
+    display: flex;
+    gap: 13px;
+    font-size: 22px;
+    font: bold;
+    color: red;
+
+}
